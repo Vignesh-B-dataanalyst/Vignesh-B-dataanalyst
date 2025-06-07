@@ -1,10 +1,3 @@
-## Hi there 👋
-
-<!--
-**Vignesh-B-dataanalyst/Vignesh-B-dataanalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 # Hi, I'm Vignesh 👋
 
 I'm a Data Analyst skilled in **SQL**, **Power BI**, and **Excel**.  
